@@ -56,3 +56,6 @@ gem 'coffee-script-source', '1.8.0'
 gem 'bootstrap-sass'
 #to bring back default page load events (because initially Turbolinks has its own events).
 gem 'jquery-turbolinks'
+
+gem 'faye-rails', '~> 2.0'
+gem 'thin'
